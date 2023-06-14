@@ -1,3 +1,9 @@
 # CV Anna Kosińska Wójciak
-Basic project with HTML and CSS 
+Basic design using html and css 
+
+## Technologies
+- HTML 
+- CSS
+- Visual Studio Code
+- Figma
 
